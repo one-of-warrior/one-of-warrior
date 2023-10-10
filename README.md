@@ -41,7 +41,7 @@
     <a href="https://vk.com/one_of_warrior">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
-<a href="https://t.me/one_of_warrior">
+<a href="https://www.instagram.com/one_of_warrior/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM"/>
 </a>
   </div>
