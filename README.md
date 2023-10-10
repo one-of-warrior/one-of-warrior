@@ -1,10 +1,10 @@
 ![Header](https://github.com/one-of-warrior/one-of-warrior/blob/main/assets/github-snake.svg)
 
 ---
-<div id="header" align="center">
-    <h1>Hi, I'm Ilya</h1>
-    <h3>I'm Software Engeneer from Moscow</h3>
-</div>
+
+### Hi, I'm Ilya
+### I'm Software Engeneer from Moscow</h3>
+
 
 ---
 ### 💻 Languages and tools:
