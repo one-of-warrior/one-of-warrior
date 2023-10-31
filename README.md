@@ -1,5 +1,4 @@
 ![Header](https://github.com/one-of-warrior/one-of-warrior/blob/main/assets/github-snake.svg)
-
 ---
 <div id="header" align="center">
     <h1>Hi, I'm Ilya</h1>
@@ -7,6 +6,15 @@
 </div>
 
 ---
+
+<div id="header" align="center">
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 ### 💻 Languages and tools:
 
 <div>
@@ -21,6 +29,8 @@
 </div>
 
 ---
+
+
 ### 🤝 For communication:
 
 <div id="links">
